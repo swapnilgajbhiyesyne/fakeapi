@@ -1,10 +1,6 @@
-[
+
 {
 "account_id": 1,
 "account_name": "MacD"
-},
-{
-account_id": 3,
-"account_name": "Shell"
 }
-]
+
